@@ -1,0 +1,30 @@
+.card {
+    width: 100%;
+    border: 1px solid gray;
+    font-family: sans-serif;
+    
+}
+
+.card-img {
+    width: 100%;
+
+}
+
+.card-contenido {
+    padding:10px;
+}
+
+.vuelo{
+    background: palevioletred;
+    color: white;
+    padding: 14px;
+    margin-bottom: 10px;
+}
+
+.card-contenido_viaje{
+    text-transform: uppercase;
+}
+
+.card-contenido_precio {
+    font-weight: bold;
+}
